@@ -1,4 +1,4 @@
-# authentication
+# Flutter Firebase Authentication Demo
 
 A new Flutter project.
 
